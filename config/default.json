@@ -1,0 +1,12 @@
+{
+  "server_mode": "http",
+  "http_route": true,
+  "deployment_host" : "127.0.0.1",
+  "websocket_protocol" : "ws",
+  "websocket_port" : 9001,
+  "zoo_host" : "zookeeper:2181",
+  "zoo_rtm_nodes" : "/airsend.rtm_nodes",
+  "kafka_host" : "kafka:9092",
+  "websocket_iphost_map" : ""
+
+}

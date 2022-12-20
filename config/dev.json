@@ -1,0 +1,5 @@
+{
+  "server_mode": "http",
+  "websocket_port" : 9001,
+  "http_route": true
+}

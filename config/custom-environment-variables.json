@@ -1,0 +1,8 @@
+{
+  "deployment_host" : "AIRSEND_DEPLOYMENT_HOSTNAME",
+  "websocket_port" : "AIRSEND_WEBSOCKET_PORT",
+  "kafka_host" : "AIRSEND_KAFKA_HOST",
+  "websocket_protocol" : "AIRSEND_WEBSOCKET_PROTOCOL",
+  "websocket_iphost_map" : "AIRSEND_WEBSOCKET_IPHOST_MAP",
+  "zoo_host" : "AIRSEND_ZOOKEEPER_HOST"
+}

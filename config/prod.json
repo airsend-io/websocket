@@ -1,0 +1,5 @@
+{
+  "server_mode": "https",
+  "http_route": true,
+  "websocket_protocol" : "wss"
+}

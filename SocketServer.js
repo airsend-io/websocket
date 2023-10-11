@@ -129,8 +129,8 @@ class SocketServer
             });
 
             // init the timers
-            this.initHeartbeatTimer(25000); // TODO - push those time configs to env...
-            this.initStatsTimer(30000);
+            this.initHeartbeatTimer(this.config.get('heartbeat_timer'));
+            this.initStatsTimer(this.config.get('stats_timer'));
 
         });
     }

@@ -7,6 +7,7 @@
   "zoo_host" : "zookeeper:2181",
   "zoo_rtm_nodes" : "/airsend.rtm_nodes",
   "kafka_host" : "kafka:9092",
-  "websocket_iphost_map" : ""
-
+  "websocket_iphost_map" : "",
+  "heartbeat_timer": 25000,
+  "stats_timer": 30000
 }
